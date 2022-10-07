@@ -38,7 +38,7 @@ function points(games) {
 // check or get the number out of the strings which would be x or y
 // compare the points
 //convert the array using split
-//return the totall amont of sum
+//return the total amount of sum
 
 let sum = 0;
 games.forEach(index => {
